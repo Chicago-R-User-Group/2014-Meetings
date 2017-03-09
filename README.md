@@ -1,6 +1,5 @@
 # 2014 Meetups
 
-
 CRUG 05/14/2014 - Josh Ulrich-Profile R Code for Speed
 
 CRUG 04/16/2014 - Paul Teetor-Bootstrapping TimeSeries Data
