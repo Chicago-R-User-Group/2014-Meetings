@@ -13,7 +13,7 @@ CRUG 02/14/2014 - Petri Fast-Subset & merge time series
 
 CRUG 02/14/2014 - Malcolm Hawkes-Peeking Under the Hood 
 
-CRUG 02/14/2014 - Susatyo-Reshape2
+CRUG 02/14/2014 - Leonardo Prasetyo-Reshape2
 
 CRUG 02/14/2014 - Krause-R Beginnings
 
